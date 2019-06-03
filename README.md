@@ -1,0 +1,1 @@
+# serverless-angular-aws-universal
